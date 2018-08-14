@@ -5,12 +5,12 @@
 //product variable by each number in the sub - arrays of arr
 
 function multiplyAll(arr) {
-    let product = 0;
+    let product = 1;
     // Only change code below this line
 
     for (let i = 0; i < arr.length; i++) {
         for (let k = 0; k < arr[i].length; k++) {
-            product += arr[i][k];
+            product *= arr[i][k];
         }
     }
 

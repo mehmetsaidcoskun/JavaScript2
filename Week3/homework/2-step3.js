@@ -26,8 +26,8 @@ function threeFive(startIndex, stopIndex, threeCallback, fiveCallback) {
   }
 }
 
-const sayThree = (x) => { console.log(`${x} is divisible by 3.`) };
+const sayThree = (x) => { console.log(`${x} is divisible by 3.`); };
 
-const sayFive = (y) => { console.log(`${y / 5} is ${y} divided by 5.`) };
+const sayFive = (y) => { console.log(`${y / 5} is ${y} divided by 5.`); };
 
 threeFive(10, 15, sayThree, sayFive);
