@@ -32,7 +32,7 @@
   */
 
   const bookShelf = {
-    "crime_and_punisment": { title: "Crime and Punisment", author: "Dostoyevski", language: "Russian", publisher: "Oxford", "first edition": 1895 },
+    "crime_and_punisment": { title: "Crime and Punishment", author: "Dostoyevski", language: "Russian", publisher: "Oxford", "first edition": 1895 },
     "zorba": { title: "Zorba", author: "Nikos Kazancakis", language: "Greek", publisher: "Can", "first edition": 1955 },
     "siddhartha": { title: "Siddhartha", author: "Hermann Hesse", language: "German", publisher: "Inkilap", "first edition": 1895 },
     "white_fang": { title: "White Fang", author: "Jack London", language: "English", publisher: "Isbankasi", "first edition": 1905 },
